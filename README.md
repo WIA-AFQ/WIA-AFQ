@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! 👋 I'm Wiam
 
-<!--
-**WIA-AFQ/WIA-AFQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Full Stack Developer | Morocco 🇲🇦
 
-Here are some ideas to get you started:
+I'm a recent graduate in **Digital Development – Web Full Stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building web applications, learning new technologies, and developing practical projects.
+
+### 💻 Technical Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
+- **Backend:** PHP, Laravel
+- **Database:** MySQL
+- **Tools:** Git, GitHub
+
+### 🚀 Featured Projects
+
+#### 1. Stage ISCOP
+A web development project completed during my internship at ISCOP.
+
+🔗 [View Project](https://github.com/WIA-AFQ/Stage-ISCOP)
+
+#### 2. JobTrack
+A web application project related to job tracking and recruitment opportunities.
+
+🔗 [View Project](https://github.com/WIA-AFQ/JobTrack)
+
+#### 3. WinaFakhar – Pottery Project
+A web application dedicated to pottery products and showcasing traditional craftsmanship.
+
+🔗 [View Project](https://github.com/WIA-AFQ/Pottery-Project)
+
+### 🌱 Currently
+
+- Improving my Full Stack development skills.
+- Building new web projects.
+- Learning and exploring new technologies.
+
+### 📫 Connect with me
+
+- GitHub: [@WIA-AFQ](https://github.com/WIA-AFQ)
