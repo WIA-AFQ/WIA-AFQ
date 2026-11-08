@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Wiam
+# Hi there!  I'm Wiam
 
 ### Web Full Stack Developer | Morocco 🇲🇦
 
@@ -6,14 +6,14 @@ I'm a recent graduate in **Digital Development – Web Full Stack**.
 
 I enjoy building web applications, learning new technologies, and developing practical projects.
 
-### 💻 Technical Skills
+###  Technical Skills
 
 - **Frontend:** HTML5, CSS3, JavaScript, React.js, Bootstrap
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
 - **Tools:** Git, GitHub
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 1. Stage ISCOP
 A web development project completed during my internship at ISCOP.
@@ -30,12 +30,12 @@ A web application dedicated to pottery products and showcasing traditional craft
 
 🔗 [View Project](https://github.com/WIA-AFQ/Pottery-Project)
 
-### 🌱 Currently
+###  Currently
 
 - Improving my Full Stack development skills.
 - Building new web projects.
 - Learning and exploring new technologies.
 
-### 📫 Connect with me
+###  Connect with me
 
 - GitHub: [@WIA-AFQ](https://github.com/WIA-AFQ)
